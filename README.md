@@ -89,7 +89,7 @@
 
 <div align="center">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=haileelog&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=soberanlaysts&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 <br>
 
