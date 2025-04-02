@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice" />
 </div>
