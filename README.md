@@ -6,11 +6,11 @@
 
 
 <div align=center>
-<!-- <br>
-  
+ <br>
+  <!-- 
 ![header](https://capsule-render.vercel.app/api?type=rect&text=HAILEE&fontAlign=50&fontAlignY=35&fontSize=40&desc=/*web%20developer%20and%20more*/&descAlignY=70&descAlign=50&theme=radical)
-
-<br> -->
+ -->
+<br> 
 
 <h3 align="center"><b> PROFILE 📍 </b></h3>
   <a href="https://haileelog.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
