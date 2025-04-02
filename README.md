@@ -81,7 +81,7 @@
 <br>
 
  <h3><b>📚 EDUCATION 📚</b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
 </div>
 <br>
