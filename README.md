@@ -19,7 +19,7 @@
 <br>
 
 <h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/food_Roulette-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/FX-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <!-- https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white -->
 <br>
 <br>
@@ -56,13 +56,10 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white"/></a>
   <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/></a>
   <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white"/></a>
  <br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF"/></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"/></a>
@@ -72,17 +69,17 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=FFFFFF"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=FFFFFF"/></a> 
   <br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white"/></a>
+
   <a href="" target="_blank"><img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=FFFFFF"/></a> 
   <br>
  
 <br>
 <br>
 
- <h3><b>📚 EDUCATION 📚</b></h3>
+ <!-- <h3><b>📚 EDUCATION 📚</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-EC5252?style=for-the-badge&logo=inflearn&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/inflearn-14BF96?style=for-the-badge&logoColor=white"/></a>
-</div>
+</div> -->
 <br>
 <br>
 
