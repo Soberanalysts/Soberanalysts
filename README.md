@@ -12,20 +12,20 @@
  -->
 <br> 
 
-<h3 align="center"><b> PROFILE 📍 </b></h3>
+<h3 align="left"><b> PROFILE 📍 </b></h3>
   <a href="https://haileelog.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-ff69b4?style=for-the-badge&logo=About.me&logoColor=FFFFFF"/></a>
   <a href="https://github.com/soberanalysts" target="_blank"><img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <a href="https://kkram95.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/techblog-666666?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
 <br>
 
-<h3 align="center"><b> TOY PROJECT 🧸 </b></h3>
+<h3 align="left"><b> TOY PROJECT 🧸 </b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/FX-A1BFD7?style=for-the-badge&logo-bitdefender&logoColor=FFFFFF"/></a>
   <!-- https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white -->
 <br>
 <br>
 <br>
 
- <h3 align="center"><b>💡 What I've Used 💡</b></h3>
+ <h3 align="left"><b>💡 What I've Used 💡</b></h3>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white"/></a>
@@ -82,13 +82,13 @@
 <br>
 <br>
 
-<div align="center">
+<div align="left">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
   <img src="https://github-readme-stats.vercel.app/api?username=soberanlaysts&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
 <br>
 
-<div align="center">
+<div align="left">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
   
