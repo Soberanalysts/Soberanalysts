@@ -90,7 +90,7 @@
 
 <div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/soberanalysts/soberanalysts)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soberanalysts&langs_count=5&layout=compact)](https://github.com/soberanalysts/soberanalysts)
   
 </div>
 
