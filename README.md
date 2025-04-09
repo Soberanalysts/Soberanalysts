@@ -82,15 +82,15 @@
 <br>
 <br>
 
-<div align="left">
+<!-- <div align="left">
  <h3><b> 🎄 Github Stats 🎄 </b></h3>
   <img src="https://github-readme-stats.vercel.app/api?username=soberanlaysts&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
-<br>
+<br> -->
 
 <div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/jogilsang/jogilsang)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haileelog&langs_count=5&layout=compact)](https://github.com/soberanalysts/soberanalysts)
   
 </div>
 
